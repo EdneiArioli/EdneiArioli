@@ -19,4 +19,17 @@ Iniciando Aprendisagem em.
 
 
 ![Ednei Arioli](https://github-readme-stats.vercel.app/api?username=EdneiArioli&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<h1>Projeto Clube dos Amigos<h1>
+<h2>Meu Primeiro Projeto Sozinho</h1>
+<br>
+<img src="https://github.com/EdneiArioli/clube-dos-amigos/blob/main/Captura%20de%20tela%202024-03-08%20150023.png">
+Foi utilisado as seguintes tecnologias.
+  
+  .HTML
+  
+  .CSS
+  
+  .JAVASCRIPTS
+  
+  Projeto feito para um Clube de Futebol Clicando no Button abre formulario para contato e links acima ainda em formação.
 
